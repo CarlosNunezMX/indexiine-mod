@@ -8,7 +8,7 @@ Descomprimelo en la carpeta: `sd/wiiu/apps/`
 
 ## Metodo Manual
 
-Descargar el mod de [Descargas](https://github.com/GaryOderNichts/indexiine-installer/releases) y descomprimelo.
+[Descarga](https://github.com/Carlitosnu/indexiine-mod/releases/tag/v2) el mod y descomprimelo.
 
 Sustituir en: `sd/wiiu/apps/indexiine-installer/index.html`
 
