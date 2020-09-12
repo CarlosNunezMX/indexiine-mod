@@ -1,12 +1,12 @@
 # Indexiine Mod
 Este mod te permitira elegir si cargar indexiine o ir a Google para usar el navegador de Wii U
 
-# Metodo de Mundo U [Es mas facil, Recomendado]
+## Metodo de Mundo U [Es mas facil, Recomendado]
 Descarga la modificación del instalador de Indexiine creada por Mundo U [Descargar](https://mega.nz/file/Cz5xRbrZ#8cxx51UlARuy0J5fM1nTLabiaS1P9waoi-4zIAWwJKI).
 
 Descomprimelo en la carpeta: `sd/wiiu/apps/`
 
-# Metodo Manual
+## Metodo Manual
 
 Descargar el mod de [Descargas](https://github.com/GaryOderNichts/indexiine-installer/releases) y descomprimelo.
 
