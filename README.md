@@ -11,6 +11,7 @@ Descomprimelo en la carpeta: `sd/wiiu/apps/`
 Descargar el mod de [Descargas](https://github.com/GaryOderNichts/indexiine-installer/releases) y descomprimelo.
 
 Sustituir en: `sd/wiiu/apps/indexiine-installer/index.html`
+
 Abrir Indexiine Installer y instalalo
 # Pasos para la instalación
 En tu Wii U abre el navegador y ingresa a [http://u.wiidb.de/](http://u.wiidb.de/)
@@ -27,6 +28,7 @@ Solo modifique para que te pidiera confirmación y no te lanzara el hack de golp
 __Modificación por Carlos Nuñez__
 
 *Creditos por Indexiine-Installer a [GaryOderNichts](https://github.com/GaryOderNichts) en github*
+
 *Creditos por Jonhyjp por Indexiine*
 
 __No me hago responsable de Softbrick__
