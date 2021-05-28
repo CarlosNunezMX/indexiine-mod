@@ -2,6 +2,7 @@
 
 ## Changelog
 v2 Este mod te permitira elegir si cargar indexiine o ir a Google para usar el navegador de Wii U
+
 v3 Ahora te permite usar la pestaña de inicio o abrir el exploit
 
 Descomprimelo en la carpeta: `sd/wiiu/apps/`
