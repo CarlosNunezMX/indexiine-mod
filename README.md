@@ -1,8 +1,8 @@
 # Indexiine Mod [Experimental]
+
+## Changelog
 v2 Este mod te permitira elegir si cargar indexiine o ir a Google para usar el navegador de Wii U
-v3 Ahora te permite usar la pestaña de inicio o abrir el hack (El instalador de **Mundo U** esta desactualizado)
-## Metodo de Mundo U [Es mas facil, Recomendado] v2
-Descarga la traducción del instalador de Indexiine creada por Mundo U [Descargar](https://mega.nz/file/Cz5xRbrZ#8cxx51UlARuy0J5fM1nTLabiaS1P9waoi-4zIAWwJKI).
+v3 Ahora te permite usar la pestaña de inicio o abrir el exploit
 
 Descomprimelo en la carpeta: `sd/wiiu/apps/`
 
